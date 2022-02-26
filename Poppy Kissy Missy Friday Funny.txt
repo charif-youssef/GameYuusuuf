@@ -1,8 +1,8 @@
 //appKey IronSource
-AppKeyBegin##{139438759}##LastAppKey
+AppKeyBegin##{13a96a601}##LastAppKey
 //OneSignal
 appIdKeyBegin##{009bf58f-556c-40fe-8128-421f49548e7a}##LastappId
 //enbale ads
-EnableAdsBegin##{false}##LastEnableAds
+EnableAdsBegin##{true}##LastEnableAds
 //rate us
-RateUsBegin##{testRateUs}##LastRateUs
+RateUsBegin##{https://play.google.com/store/apps/developer?id=Nyc+corporation+team}##LastRateUs
